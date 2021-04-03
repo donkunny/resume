@@ -5,10 +5,12 @@
   duration: Jan, 2020 &mdash; 
   summary: 점손익 배부/결산 작업 지원, 웹전표 시스템 관리, ABAP 프로그램 개발
 
-
 # 보안솔루션 운영 관리
-- company: 롯데정보통신(Lotte Data Coummunicaton Center)
   position: 보안솔루션 시스템 운영 및 관리
-  duration: Jun, 2018  &mdash;
+  duration: Jan, 2018  &mdash;
   summary: 보안 솔루션 시스템(매체제어, DB접근제어, DRM, 등) 운영 관리, 보안 운영 현황 보고, 보안수준진단 지원
-
+  
+# 전자결재 시스템 관리
+  position: 그룹웨어/ 전자결재 시스템 관리
+  duration: Feb, 2017  &mdash; Nov, 2020
+  summary: 그룹웨어(포탈 외) 및 전자결재 시스템 유지보수
