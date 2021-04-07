@@ -1,13 +1,18 @@
 # Degree
 - degree Conferred: 교육 수료
-  uni: SAP S/4HANA CO 아카데미 수료
+  uni: SAP Korea 교육센터
   year: 2020.11.03 &mdash; 2020.11.13 (11일)
-  summary: Management Accounting in SAP S/4 HANA
+  summary: SAP S/4HANA CO 아카데미 수료 (Management Accounting in SAP S/4 HANA)
 
 - degree Conferred: 교육 수료
-  uni: SAP ABAP 아카데미 for S/4HANA(HA400,S4D430)
+  uni: SAP Korea 교육센터
   year: 2020.09.21 &mdash; 2020.09.25 (5일)
-  summary: SAP ABAP for SAP S/4 HANA
+  summary: SAP ABAP 아카데미 for S/4HANA(HA400,S4D430) (SAP ABAP for SAP S/4 HANA)
+
+- degree Conferred: 교육 수료
+  uni: 인하대학교 문화콘텐츠 제작 앱/웹 개발 과정 이수
+  year: 2020.09.21 &mdash; 2020.09.25 (5일)
+  summary: JAVA 기반 웹/앱 개발 과정 수료(스프링 프레임워크 / 안드로이드 개발 포함)
 
 - degree Conferred: Bachelor of Science (Cum Laude)
   uni: Handong Global University (한동대학교)
