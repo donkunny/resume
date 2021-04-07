@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "김동혁(Donghyuk Kim)"
-resume_title:                   "Security Engineer"
+resume_title:                   "SAP CO 모듈 운영자"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "kdh4132@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_email:           "kdh4132@gmail.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 #display_header_contact_info:    "false"
 
-resume_header_intro: "<p>반갑습니다, 김동혁입니다. 4년차 보안솔루션 운영 및 정보보호 관리 담당자로 일하고 있으며 보안 및 개인정보 보호 관련 스킬에 관심이 많습니다.</p>"
+resume_header_intro: "<p>반갑습니다, 김동혁입니다. 기업 SAP CO 모듈 운영자로 일하고 있습니다.<br/>주 모듈은 CO로 결산/배부 작업을 지원하고, 점손익계산, 예산관리 등 관련 SAP 프로그램 유지보수를 하고 있습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
