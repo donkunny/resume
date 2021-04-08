@@ -1,7 +1,13 @@
 # Skills
-# CISA
+# 정보보안
 - skill: CISA Certification
   description: 15 October 2020
+  
+# SAP
+- skill: ABAP 개발, SAP CO 모듈 운영/관리
+
+# .NET
+- skill: ASP .NET 프로그래밍, MS-SQL, Active-Directory 운영
 
 # 정보처리기사
 - skill: 정보처리기사
