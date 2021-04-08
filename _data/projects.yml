@@ -1,6 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-
+# 정산시스템 구축
+- project: 코리아세븐 차세대 정산시스템 구축
+  role: SAP CO 점손익계산 결산 작업 개선
+  duration: 2021.01 &mdash; 현재
+  description: 신규 정산시스템 분개 방식 변경에 따른 CO 점손익계산 결산 작업 개선
+  
 # SAP 구축 프로젝트
 - project: 코리아세븐 SAP 구축
   role: SAP CO 모듈 운영
