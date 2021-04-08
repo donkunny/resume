@@ -8,7 +8,7 @@
   description: SAP CO/웹전표 후속 구축 작업 지원
 
 # 전자결재 고도화 프로젝트 지원
-- project: 코리아세븐 전자결재 고도화 프로젝트 지원
+- project: 코리아세븐 전자결재 고도화
   role: 전자결재 기술 지원
   duration: 2019.07 &mdash; 2020.02
   description: 전자결재 프로세스 및 양식 개발 지원(ASP .NET, C#), 모의해킹 및 소스 진단 이 후 시스템 취약점 이행점검진행
