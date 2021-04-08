@@ -1,16 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# SAP 구축 프로젝트
+- project: 코리아세븐 SAP 구축
+  role: SAP CO 모듈 운영
+  duration: 2020.01 &mdash; 2020.05
+  description: SAP CO/웹전표 후속 구축 작업 지원
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# 전자결재 고도화 프로젝트 지원
+- project: 코리아세븐 전자결재 고도화 프로젝트 지원
+  role: 전자결재 기술 지원
+  duration: 2019.07 &mdash; 2020.02
+  description: 전자결재 프로세스 및 양식 개발 지원(ASP .NET, C#), 모의해킹 및 소스 진단 이 후 시스템 취약점 이행점검진행
